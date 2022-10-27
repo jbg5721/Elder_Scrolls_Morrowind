@@ -95,7 +95,7 @@ ul {
   margin: 0 auto;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color:#E39439;
   
   position: sticky;
   top: 0;
@@ -130,3 +130,8 @@ li a:hover {
   width: inherit;
   height: inherit;
 }
+
+div.staticSearch { 
+background-color: #E39439
+}
+
